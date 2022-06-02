@@ -1,1 +1,1 @@
-# 3D-atoms
+# PRO-C174-Student-Boilerplate
